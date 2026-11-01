@@ -1,0 +1,15 @@
+# Python Cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Google Credentials
+service_account.json
+credentials.json
+token.json
+
+# Outputs and downloads
+downloads/
+*.xlsx
